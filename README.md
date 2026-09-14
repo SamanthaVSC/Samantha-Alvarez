@@ -29,7 +29,7 @@ Frameworks & Libraries
 - Pandas
 - Matplotlib
 - SymPy
-- PyTourch
+- PyTorch
 - Scikit-learn
 
 Tools & Technologies
@@ -48,7 +48,7 @@ Focus:
 
 - Qt Widgets
 - Qt translations
-- Qthreads
+- Qthread
 - QSS themes
 - C++
 - Application architecture in Qt
@@ -62,8 +62,8 @@ Focus:
 - Python
 - PySide6
 - TTS engines
-- Grammar qualifications
-- Pronunciation qualifications
+- Grammar corrections
+- Pronunciation assessment
 - Transcription (audio->text)
 - Audio processing
 
